@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background : url("../utilities/Sdesign1 1.png"),
+                url("../utilities/Sdesign2 1.png"),
+                url("../utilities/Sdesign3 1.png"),
+                url("../utilities/Sdesign4 1.png");
+    background-position: left 0px top -2px,
+                        right 0px top 5px, 
+                        left -20px top 485px, 
+                        right -45px top 480px;
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(6, 40, 99);
+    margin: 0 auto;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.formBox {
+    border : 1px solid transparent;
+    background-color: #FFFFFF;
+    width: 480px;
+    height: 970px;
+    margin: auto;
+    margin-top: 45px;
+    border-radius: 20px 20px 20px 0px;
+}
+
+#formCaption {
+    text-align: center;
+    color: #083E9E;
+    font-family: U8,sans-serif;;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 50px;
+}
+
+#formSubCaption {
+    width: 350px;
+    text-align: center;
+    color: #4a5568;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin: auto;
+    margin-top: -10px;
+}
+
