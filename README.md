@@ -1,2 +1,2 @@
 # PiggyVest-Clone
-This is a simple project done with HTML, CSS and Javascript to clone the piggyvest signup page
+This is a simple mock interface of the piggyvest signup page.
